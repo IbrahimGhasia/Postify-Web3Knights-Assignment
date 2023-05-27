@@ -12,7 +12,33 @@ The API have the following functionality:
 
 ## Technologies
 
+<hr>
+
 It is build using
 
 -   Express js
 -   MySql Database
+
+## Solution
+
+<hr>
+
+-   <h3>Login</h3>
+
+<img src="./image/login.png">
+
+-   <h3>Register</h3>
+
+<img src="./image/register.png">
+
+-   <h3>New Post</h3>
+
+<img src="./image/new_post.png">
+
+-   <h3>Post by UserId</h3>
+
+<img src="./image/post_by_id.png">
+
+-   <h3>All Post</h3>
+
+<img src="./image/all_post.png">
